@@ -1,7 +1,7 @@
 
 # 🎬 Netflix Movies & The Office Analysis  🚀
 
-In this project, I apply my **Python programming skills** (from *Introduction to Python* and *Intermediate Python*) to solve real-world data science problems. Using **pandas**, **matplotlib**, and other Python tools, I investigate two key questions:  
+In this project, I apply my **Python programming skills** to solve real-world data science problems. Using **pandas**, **matplotlib**, and other Python tools, I investigate two key questions:  
 1. **Are Netflix movies getting shorter over time?** 🕒  
 2. **Which guest stars appeared in the most popular episode of *The Office*?** 🌟  
 
